@@ -1,4 +1,4 @@
-## Hi there! I'm Naor Dabush👋
+# Hi there! I'm Naor Dabush👋
 
   <img  align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
 <p align="left">
@@ -31,8 +31,6 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
   
 ## GitHub Stats
-  <p align="center">
-  <hr>
   
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" />
 </p>
