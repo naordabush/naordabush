@@ -1,9 +1,9 @@
 ## Hi there! I'm Naor Dabush👋
 
-<img align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
+  <img  align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
 <p align="left">
   <em>
-A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / and some other cool libraries and frameworks.
+A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / Express /  and some other cool libraries and frameworks.
   </em> 
 </p>
 
@@ -16,7 +16,6 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 </p>
 
 ### Languages & Tools I Know...
-<p align="center">
   <code> <img height="50" src="./icons/CSS.svg" width="48"> </code>
   <code><img height="50" src="./icons/HTML.svg" width="48"></code>
   <code><img height="50" src="./icons/JavaScript.svg" width="48"></code>
@@ -30,17 +29,24 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
   <code><img height="50" src="./icons/Angular-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/MongoDB.svg" width="48"></code>
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
-</p>
-<hr>
+  <hr>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" />
-</p>
+  
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</p>
 
-<p align="right">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+
+
+<p align="center">
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" />
