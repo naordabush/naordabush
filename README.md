@@ -11,7 +11,8 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> 
 </p>
 
-  [![Github](https://img.shields.io/github/followers/naordabush?label=Follow&style=social)](https://github.com/naordabush)
+![](https://visitor-badge.laobi.icu/badge?page_id=naordabush.naordabush)
+[![Github](https://img.shields.io/github/followers/naordabush?label=Follow&style=social)](https://github.com/naordabush)
 
 
 
