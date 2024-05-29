@@ -13,7 +13,6 @@ A passionate FullStack Developer with experience in building Web applications wi
   </a>
   <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" style="margin-left: 10px; margin-right: 10px;" /> 
   <img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/github/gists/naordabush?label=Gists&style=social" alt="naordabush-gists" />
 </p>
 
 ### Languages & Tools I Know...
