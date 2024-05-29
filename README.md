@@ -8,6 +8,9 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 </p>
 
 <p align="center">
+<a href="https://linkedin.com/in/nico-ballabio" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> 
 <img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" /> 
 </p>
