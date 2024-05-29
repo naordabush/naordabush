@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
 
