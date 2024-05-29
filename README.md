@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <hr>
-
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-
 
   <hr>
   <p align="center">
@@ -34,3 +30,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+<p>
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+</p>
