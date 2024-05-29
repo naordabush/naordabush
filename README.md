@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <hr>
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
 
   <hr>
   <p align="center">
