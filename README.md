@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there! I'm Naor Dabush👋
+
+A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / Express /  and some other cool libraries and frameworks.
 
 <!--
-**naordabush/naordabush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -16,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Naor's GitHub stats](https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&theme=tokyonight&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
