@@ -22,16 +22,14 @@ Here are some ideas to get you started:
   <code> <img height="50" src="./icons/CSS.svg" width="48"> </code>
   <code><img height="50" src="./icons/HTML.svg" width="48"></code>
   <code><img height="50" src="./icons/JavaScript.svg" width="48"></code>
+  <code><img height="50" src="./icons/NodeJS-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Java-Light.svg" width="48"></code>
-  <code><img height="50" src="./icons/Hibernate-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Spring-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/CS.svg" width="48"></code>
   <code><img height="50" src="./icons/DotNet.svg" width="48"></code>
-  <code><img height="50" src="./icons/NodeJS-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/React-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/VueJS-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Angular-Light.svg" width="48"></code>
-  <code><img height="50" src="./icons/Maven-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/MongoDB.svg" width="48"></code>
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
 
