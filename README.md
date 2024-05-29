@@ -1,5 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.naordabush)
-
 
 ## Hi there! I'm Naor Dabush👋
   <img  align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
@@ -12,7 +10,7 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> 
 </p>
-  ![](https://visitor-badge.laobi.icu/badge?page_id=naordabush.naordabush)
+
   [![Github](https://img.shields.io/github/followers/naordabush?label=Follow&style=social)](https://github.com/naordabush)
 
 
