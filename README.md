@@ -30,7 +30,7 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
   <code><img height="50" src="./icons/Angular-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/MongoDB.svg" width="48"></code>
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
-
+<br>
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</p>
