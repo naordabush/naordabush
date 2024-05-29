@@ -2,14 +2,10 @@
 <p>
   <em>
 A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / Express /  and some other cool libraries and frameworks.
-
   </em> 
-  <br>
-
 </p>
 
 <!--
-
 
 Here are some ideas to get you started:
 
