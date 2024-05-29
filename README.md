@@ -15,7 +15,7 @@ A passionate FullStack Developer with experience in building Web applications wi
   <img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" style="margin-right: 10px;" />
 </p>
 
-### Some Of The Languages & Tools I Know...
+### Languages & Tools I Know...
   <code> <img height="50" src="./icons/CSS.svg" width="48"> </code>
   <code><img height="50" src="./icons/HTML.svg" width="48"></code>
   <code><img height="50" src="./icons/JavaScript.svg" width="48"></code>
