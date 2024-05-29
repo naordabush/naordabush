@@ -38,15 +38,13 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
 
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
 
 
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&theme=tokyonight" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naordabush&theme=tokyonight" alt="Most Commit Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naordabush&theme=tokyonight" alt="Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naordabush&theme=tokyonight" alt="GitHub Streak" />
 </p>
