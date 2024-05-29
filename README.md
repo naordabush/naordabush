@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 -->
   <hr>
 
-![Full-year calendar](/metrics.plugin.isocalendar.fullyear.svg)
-<img align="center" src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
-<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%">
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
