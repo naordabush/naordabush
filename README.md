@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages & Tools I Know...
+
+
+<img src="./icons/Ableton-Dark.svg" width="48">
+
+
+
+
+
+
 
   <hr>
   <p align="center">
