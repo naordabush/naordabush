@@ -34,8 +34,16 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
   </p>
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
-<p >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
-<p align="center">
+  
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" />
+</p>
+
+<p align="right">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naordabush&theme=tokyonight" alt="GitHub Streak" />
 </p>
