@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
 ## Hi there! I'm Naor Dabush👋
   <img  align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
 <p align="left">
