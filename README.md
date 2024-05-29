@@ -9,7 +9,7 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 
 <p align="center">
 <a href="https://linkedin.com/in/naordabush" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 3px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="20px" style="margin-bottom: 3px;" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> 
 <img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" /> 
