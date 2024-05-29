@@ -19,29 +19,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages & Tools I Know...
-
-
-<img src="./icons/CSS.svg" width="48">
-<img src="./icons/HTML.svg" width="48">
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/Java-Light.svg" width="48">
-<img src="./icons/Hibernate-Light.svg" width="48">
-<img src="./icons/Spring-Light.svg" width="48">
-<img src="./icons/CS.svg" width="48">
-<img src="./icons/DotNet.svg" width="48">
-<img src="./icons/NodeJS-Light.svg" width="48">
-<img src="./icons/React-Light.svg" width="48">
-<img src="./icons/VueJS-Light.svg" width="48">
-<img src="./icons/Angular-Light.svg" width="48">
-<img src="./icons/Maven-Light.svg" width="48">
-<img src="./icons/MongoDB.svg" width="48">
-<img src="./icons/MySQL-Light.svg" width="48">
-
-
-
-
-
-
+  <code> <img height="50" src="./icons/CSS.svg" width="48"> </code>
+  <code><img height="50" src="./icons/HTML.svg" width="48"></code>
+  <code><img height="50" src="./icons/JavaScript.svg" width="48"></code>
+  <code><img height="50" src="./icons/Java-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Hibernate-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Spring-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/CS.svg" width="48"></code>
+  <code><img height="50" src="./icons/DotNet.svg" width="48"></code>
+  <code><img height="50" src="./icons/NodeJS-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/React-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/VueJS-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Angular-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Maven-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/MongoDB.svg" width="48"></code>
+  <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
 
   <hr>
   <p align="center">
