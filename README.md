@@ -40,3 +40,22 @@ A passionate FullStack Developer 🚀 with experience in building Web applicatio
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&theme=tokyonight" alt="Profile Details" />
 </p>
+### GitHub Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=naordabush&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+### GitHub Contributions Graph
+<p align="center">
+  <img src="https://github.com/naordabush/naordabush/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contributions Graph" />
+</p>
+
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naordabush&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+### GitHub Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/naordabush?template=classic&isocalendar=1&languages=1&stars=1&people=1&repositories=1&achievements=1&activity=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&repositories.featured=naordabush%2Fnaordabush&repositories.pinned=0&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&achievements.threshold=C&activity.limit=5&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&activity.limit=5&config.timezone=Europe%2FLondon" alt="GitHub Metrics" />
+</p>
