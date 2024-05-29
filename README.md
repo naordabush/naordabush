@@ -1,9 +1,16 @@
 ## Hi there! I'm Naor Dabush👋
-<p>
+![robot](https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c)
+<p align="left">
   <em>
 A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / Express /  and some other cool libraries and frameworks.
   </em> 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> </p>
+<p align="right">
+
+</p>
+
+
 
 ### Languages & Tools I Know...
   <code> <img height="50" src="./icons/CSS.svg" width="48"> </code>
