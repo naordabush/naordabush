@@ -8,11 +8,12 @@ A passionate FullStack Developer with experience in building Web applications wi
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/naordabush" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="20px" style="margin-bottom: 3px;" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" /> 
-<img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" /> 
+  <a href="https://linkedin.com/in/naordabush" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="20px" style="margin-bottom: 3px;" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=naordabush&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="naordabush" style="margin-left: 10px; margin-right: 10px;" /> 
+  <img src="https://img.shields.io/github/followers/naordabush?label=Follow&style=social" alt="naordabush" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/github/gists/naordabush?label=Gists&style=social" alt="naordabush-gists" />
 </p>
 
 ### Languages & Tools I Know...
