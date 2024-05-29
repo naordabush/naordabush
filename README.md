@@ -1,5 +1,5 @@
 ## Hi there! I'm Naor Dabush👋
-![robot](https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c)
+  <img  align="right" src="https://github.com/naordabush/naordabush/assets/65256155/686fefe5-5e42-4145-a367-d801014bf77c" height="300"/>
 <p align="left">
   <em>
 A passionate FullStack Developer 🚀 with experience in building Web applications with NodeJS / Express / Java / Springboot / C# / DotNet / ReactJS / Angular / VueJS / Express /  and some other cool libraries and frameworks.
