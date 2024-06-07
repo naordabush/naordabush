@@ -32,11 +32,12 @@ A passionate FullStack Developer with experience in building Web applications wi
   
 ## GitHub Stats
   
-<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naordabush&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="naordabush" /></p>
 
-<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naordabush&show_icons=true&count_private=true&theme=tokyonight" alt="naordabush" width="410" /></p>
+
 
 <p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&theme=tokyonight" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&count_private=true&theme=tokyonight" alt="Profile Details" />
 </p>
+
