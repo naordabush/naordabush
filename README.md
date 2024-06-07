@@ -30,6 +30,8 @@ A passionate FullStack Developer with experience in building Web applications wi
   <code><img height="50" src="./icons/MongoDB.svg" width="48"></code>
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Godot-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Hibernate-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/Spring-Dark.svg" width="48"></code>
   
 ## GitHub Stats
   
