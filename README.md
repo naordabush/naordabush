@@ -6,6 +6,11 @@
 A passionate FullStack Developer with experience in building Web applications with NodeJS / Java / C# / React / Angular / Vue and some other cool libraries and frameworks.
   </em> 
 </p>
+<p align="left">
+  <em>
+in my free time i like to juggle in game development using Godot Game Engine
+  </em> 
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/naordabush" target="_blank" rel="noopener noreferrer">
