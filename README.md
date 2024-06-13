@@ -8,7 +8,7 @@ A passionate FullStack Developer with experience in building Web applications wi
 </p>
 <p align="left">
   <em>
-in my free time i like to juggle in game development using Godot Game Engine
+In my free time, I enjoy experimenting with game development using the Godot Game Engine.
   </em> 
 </p>
 
