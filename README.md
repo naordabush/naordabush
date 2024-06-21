@@ -47,10 +47,3 @@ In my free time, I enjoy experimenting with game development using the Godot Gam
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naordabush&theme=tokyonight&count_private=true" alt="Profile Details" />
 </p>
-
-#### 📜 Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/naordabush/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![GITHUB Languages](https://raw.githubusercontent.com/naordabush/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/naordabush/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![GITHUB Languages](https://raw.githubusercontent.com/naordabush/github-stats/master/generated/languages.svg#gh-light-mode-only)
