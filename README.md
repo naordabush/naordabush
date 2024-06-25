@@ -36,6 +36,7 @@ In my free time, I enjoy experimenting with game development using the Godot Gam
   <code><img height="50" src="./icons/MySQL-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Godot-Light.svg" width="48"></code>
   <code><img height="50" src="./icons/Hibernate-Light.svg" width="48"></code>
+  <code><img height="50" src="./icons/PHP-Dark.svg" width="48"></code>
   
 ## GitHub Stats
   
